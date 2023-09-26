@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\pythonprojects\\VirtualAssistantDeepLearning\\model.tflearn"
+all_model_checkpoint_paths: "D:\\pythonprojects\\VirtualAssistantDeepLearning\\model.tflearn"
